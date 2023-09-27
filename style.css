@@ -1,4 +1,14 @@
-h1 {
-    font-family: 'Courier New', Courier, monospace;
-    color: chartreuse;
+/*ICI COMMENCE LE CODE DE MOMO*/
+.conteneur {
+    display: flex;
 }
+
+img {
+    height: 25%;
+    width: 25%;
+}
+.image {
+    width: 1200px; height: 1200px;
+}
+
+
